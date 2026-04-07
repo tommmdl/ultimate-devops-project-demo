@@ -106,6 +106,11 @@ Emeritus:
 
 [![contributors](https://contributors-img.web.app/image?repo=open-telemetry/opentelemetry-demo)](https://github.com/open-telemetry/opentelemetry-demo/graphs/contributors)
 
+#### Fork maintained by
+
+[![tommmdl](https://github.com/tommmdl.png?size=80)](https://github.com/tommmdl)
+[@tommmdl](https://github.com/tommmdl)
+
 [docs]: https://opentelemetry.io/docs/demo/
 
 <!-- Links for Demos featuring the Astronomy Shop section -->
