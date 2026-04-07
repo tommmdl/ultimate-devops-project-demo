@@ -104,9 +104,8 @@ Emeritus:
 
 ### Thanks to all the people who have contributed
 
-[![contributors](https://contributors-img.web.app/image?repo=open-telemetry/opentelemetry-demo)](https://github.com/open-telemetry/opentelemetry-demo/graphs/contributors)
+[![contributors](https://raw.githubusercontent.com/tommmdl/ultimate-devops-project-demo/main/.github/images/contributors.svg)](https://github.com/tommmdl/ultimate-devops-project-demo/graphs/contributors)
 
-[![tommmdl](https://raw.githubusercontent.com/tommmdl/ultimate-devops-project-demo/main/.github/images/maintainer.png)](https://github.com/tommmdl)
 
 [docs]: https://opentelemetry.io/docs/demo/
 
