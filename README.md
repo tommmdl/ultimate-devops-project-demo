@@ -106,7 +106,7 @@ Emeritus:
 
 [![contributors](https://contributors-img.web.app/image?repo=open-telemetry/opentelemetry-demo)](https://github.com/open-telemetry/opentelemetry-demo/graphs/contributors)
 
-[![tommmdl](https://raw.githubusercontent.com/tommmdl/ultimate-devops-project-demo/main/.github/images/maintainer.svg)](https://github.com/tommmdl)
+[![tommmdl](https://raw.githubusercontent.com/tommmdl/ultimate-devops-project-demo/main/.github/images/maintainer.png)](https://github.com/tommmdl)
 
 [docs]: https://opentelemetry.io/docs/demo/
 
