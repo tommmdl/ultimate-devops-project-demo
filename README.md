@@ -104,16 +104,7 @@ Emeritus:
 
 ### Thanks to all the people who have contributed
 
-[![contributors](https://contributors-img.web.app/image?repo=open-telemetry/opentelemetry-demo)](https://github.com/open-telemetry/opentelemetry-demo/graphs/contributors)
-
-#### Fork maintained by
-
-[![tommmdl](https://contributors-img.web.app/image?repo=tommmdl/ultimate-devops-project-demo)](https://github.com/tommmdl/ultimate-devops-project-demo/graphs/contributors)
-
-#### Fork maintained by
-
-[![tommmdl](https://github.com/tommmdl.png?size=80)](https://github.com/tommmdl)
-[@tommmdl](https://github.com/tommmdl)
+[![contributors](https://contributors-img.web.app/image?repo=tommmdl/ultimate-devops-project-demo)](https://github.com/tommmdl/ultimate-devops-project-demo/graphs/contributors)
 
 [docs]: https://opentelemetry.io/docs/demo/
 
